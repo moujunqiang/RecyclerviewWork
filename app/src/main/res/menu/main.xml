@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/more"
+        android:title=""
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/action_del"
+                android:icon="@mipmap/ic_launcher"
+                android:title="@string/notice"
+                app:showAsAction="ifRoom" />
+            <item
+                android:id="@+id/action_warn"
+                android:icon="@mipmap/ic_launcher"
+                android:title="@string/settings"
+                app:showAsAction="ifRoom" />
+        </menu>
+    </item>
+</menu>

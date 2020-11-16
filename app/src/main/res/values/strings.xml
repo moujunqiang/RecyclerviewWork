@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="subtitle">小标题</string>
+    <string name="title">大标题</string>
+    <string name="notice">通知</string>
+    <string name="settings">设置</string>
+    <string name="secondTitle">第二个页面标题</string>
+    <string name="secondSubTitle">第二个页面小标题</string>
+</resources>
